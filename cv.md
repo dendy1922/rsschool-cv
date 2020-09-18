@@ -64,3 +64,11 @@ function digitalRoot(numeric) {
     * Dates: 04.2019 - now.
     * Example: Parsers, Automation projects, Django projects,Asyncio projects, Page making, Codewars,Automation tests.
 
+## Education:
+
+* Level: Higher(budget)
+* Name of establishment: Belarusian State University of Informatics and Radioelectronics
+* Faculty: Faculty of Information Technologies and Control
+* Specialization: Control and Informatics in Technical Systems
+* Dates of styding: 2015 – 2019
+
