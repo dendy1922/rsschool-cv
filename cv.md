@@ -72,3 +72,8 @@ function digitalRoot(numeric) {
 * Specialization: Control and Informatics in Technical Systems
 * Dates of styding: 2015 – 2019
 
+## English
+
+* Unesco English camp 06.2014 - 07.2014
+* Work and accommodation in USA 06.2017 - 09.2017
+* Level(B1/B2)
