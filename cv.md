@@ -4,13 +4,12 @@
 * Last: Dragun
 
 ## Contact Info:
-Source| Links
---------|------------------------
-Gmail|dragunart22@gmail.com
-Telegram| dragunart22
-[Linkedin](http://linkedin.com/in/artsiom-dragun-1082361a1) | http://linkedin.com/in/artsiom-dragun-1082361a1
-[GitHub](https://github.com/dendy1922)| https://github.com/dendy1922
-[Codewars](https://www.codewars.com/users/Dendy1922)| https://www.codewars.com/users/Dendy1922
+
+* Gmail - dragunart22@gmail.com
+* Telegram - dragunart22
+* [Linkedin](http://linkedin.com/in/artsiom-dragun-1082361a1) 
+* [GitHub](https://github.com/dendy1922)
+* [Codewars](https://www.codewars.com/users/Dendy1922)  
 
 
 ## Summary: 
